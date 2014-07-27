@@ -153,7 +153,3 @@ case "$1" in
 *)  usage
     ;;
 esac
-
-
-echo "X_NEW: $X_NEW"
-echo "Y_NEW: $Y_NEW"
